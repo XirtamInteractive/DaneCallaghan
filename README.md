@@ -1,6 +1,3 @@
-## My Student Profile
-
-
 ## Introduction:
 - Name:       Dane Callaghan
 - Student#:   s3731871
