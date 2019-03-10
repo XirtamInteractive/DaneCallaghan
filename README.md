@@ -5,6 +5,7 @@
 - Nationality:  Australian
 - Culture:      I think this is hard to define, as it's probably a combination of many.
 - Languages:    English. I do have an interest in learning more, and am currently teaching myself German and Brazillian Portuguese.
+- Interesting Fact: One of my hobbies is skydiving. I have done 131 jumps so far and hope to one day reach 1000.
 
 ## Education
 Completed Year 10 at high school.  
