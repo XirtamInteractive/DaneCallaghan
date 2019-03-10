@@ -21,10 +21,12 @@ Mid 2017 I decided to commit fully to a career change. I put myself through a DF
 ## My Interest In IT
 My earliest memories of "IT" are visiting the local Penny Arcade, which is the 1980's equivalent of Timezone. I was exposed to video games at a young age and became hooked. I got my first console at around 10 years old, which was the original Nintendo Entertainment System.  
 I always seemed to have an interest in various technologies growing up, and was exposed to computing early as my mother taught computer literacy, database design and programming at Tafe.  
-In 2009, I was dissatisfied with my job as an electrician and commenced at Bachelor of IT thruogh Griffith. Life circumstances got in the way and I postponed it with a view to complete at a later date. That was my first "real" deep exposure to what IT was. I loved it, and my results weren't bad considering I had no real actual experience previously.  
+In 2009, I was dissatisfied with my job as an electrician and commenced at Bachelor of IT thruogh Griffith. I completed my first year then life circumstances got in the way and I postponed it with a view to complete at a later date. That was my first "real" deep exposure to what IT was. I loved it, and my results weren't bad considering I had no real actual experience previously.  
 
-RMIT was chosen by default, although I am more than happy to be studying through them. My degree is offered online through them, although it's made up of many other university's modules too.   
+RMIT was chosen by default, although I am more than happy to be studying through them. My degree is offered online through them, although it's made up of many other university's modules too. The structure of my degree is that RMIT will issue it if I complete at least 8 core units through them.    
 
 My expectations of this course are that I will receive a better overall understanding of what IT is, and how it applies to today's work environment. I am hoping it will help develop my IT knowledge, communication skills and help me identify ways in which IT can compliment my life.  
 
 ## Ideal Job
+
+As my ideal job isn't currently specidiacally IT. 
