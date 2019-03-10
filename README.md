@@ -30,4 +30,4 @@ My expectations of this course are that I will receive a better overall understa
 
 ## Ideal Job
 
-As my ideal job isn't currently specidiacally IT. 
+As my ideal job isn't currently specifically IT. 
