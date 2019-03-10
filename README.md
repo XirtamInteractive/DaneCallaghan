@@ -36,6 +36,35 @@ I have recently moved into the financial planning industry. Currently my ideal j
 
 The job posting can be viewed on Seek [here](https://www.seek.com.au/job/38381422?searchrequesttoken=935c9592-fd12-4cb6-adda-25411837db7c&type=promoted)  
 
+## Description
+A Senior Financial Adviser works with clients to help them understand their financial needs. They discuss and assesss various aspects of the clients financial situation such as budgets and cash flow, superannuation, investments, risk management, estate planning and retirement goals. The adviser will help educate the client on these topics and address any concerns they may have. 
+
+After assessment, the adviser will build a strategy tailored to the client's specific needs and goals. The adviser then implements the financial plan and monitors it to ensure it continues to meet the client's goals as their life moves forward.  
+
+Being a financial adviser is appealing to me as it is a people focused position. This job will allow me to engage with people and truly make a difference in their life. I also find the research invloved interesting and it's satisfying developing a plan based on the client's individual needs.  
+
+## Required Skills
+ - Communication Skills. The adviser needs to listen and understand the clients needs, and be able to convey information to the client  
+ - Research Skills. Adviser need an ability to look at the client's situation, and research appropraite products and strategy to ensure the client's objectives are met.
+ - Time Management. An adviser needs to be organised to deliver the advice in a timely manner.  
+ - IT Skills. Adviser need a working knowledge of various compluter applications such as Word, Excel, Outlook, CRMs and other IT related equipment.
+ - Before December 31 last year, advisers could have a minimum of a Diploma of Financial Planning and legally be allowed to give advice. This was limited to their skill level, as advisers can't give advice on anything they don't have experience with. Following the Royal Comission, the standards for formal education have now changed. By 2024 advisers will be required to have a related degree such as economics, business (financial major) or commerce and complete bridging courses as required. There is also an option for previously registered advisers to complete a Graduate Diploma of 8 subjects if they don't have a related degree.
+ 
+ ## My Current Skills
+ 
+ - Communication skills. Developed through my professional career and currently being refined in a financial planning support role.  
+ - Research Skills. Developed through various levels of study.  
+ - Time Management. My current job requires me to have an exceptional level of time management skills.  
+ - Diploma of Financial Planning.  
+ - Currently studying a Bachelor of Business (Financial Planning).  
+ 
+ I plan to build on these skills by completeing my degree, on the job experience and continuing to develope my knowledge through research. Part of being an adviser requires continual study which is recognised through CPD point. CPD stands for Compulsory Personal Development. This helps ensure that advisers stay up to date with the ever changing financial services world.
+ 
+ ## Personal Profile
+ 
+ Below are the my personal results from profiling tests. These tests are designed to assess personality and learning types of the individual.
+ 
+
 
 
 
