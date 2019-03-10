@@ -32,6 +32,6 @@ My expectations of this course are that I will receive a better overall understa
 
 I have recently moved into the financial planning industry. Currently my ideal job is to be a financial adviser, with the hope of one day moving into a management or mentor type role. As such, the job posting below reflects my desire for that kind of position.  
 
-<img align="left" width="100" height="100" src="https://github.com/DaneCallaghan/DaneCallaghan/edit/master/">
+<img align="left" width="500" height="500" src="https://github.com/DaneCallaghan/DaneCallaghan/edit/master/Senior_FA_Seek.jpg">
 
 
