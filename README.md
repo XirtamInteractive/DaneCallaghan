@@ -34,7 +34,9 @@ I have recently moved into the financial planning industry. Currently my ideal j
 
 <img style="float: left;" src="Senior_FA_Seek.jpg">  
 
-The Role  
+The job posting can be viewed at https://www.seek.com.au/job/38381422?searchrequesttoken=935c9592-fd12-4cb6-adda-25411837db7c&type=promoted  
+
+
 
 
 
