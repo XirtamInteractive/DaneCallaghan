@@ -50,7 +50,7 @@ Being a financial adviser is appealing to me as it is a people focused position.
  - IT Skills. Adviser need a working knowledge of various compluter applications such as Word, Excel, Outlook, CRMs and other IT related equipment.
  - Before December 31 last year, advisers could have a minimum of a Diploma of Financial Planning and legally be allowed to give advice. This was limited to their skill level, as advisers can't give advice on anything they don't have experience with. Following the Royal Comission, the standards for formal education have now changed. By 2024 advisers will be required to have a related degree such as economics, business (financial major) or commerce and complete bridging courses as required. There is also an option for previously registered advisers to complete a Graduate Diploma of 8 subjects if they don't have a related degree.
  
- ## My Current Skills
+## My Current Skills
  
  - Communication skills. Developed through my professional career and currently being refined in a financial planning support role.  
  - Research Skills. Developed through various levels of study.  
