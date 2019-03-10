@@ -10,7 +10,7 @@
 > Completed Year 10 at high school
 > Cert III in Electrotechnology
 > Cert IV in Electrical Equipment in Hazardous Areas
-> Completed 1st year of Bachelor of IT in 2009, then had to postpone.
+> Completed 1st year of Bachelor of IT in 2009, then had to postpone
 > Diploma of Financial Planning
 > Currently studying a Bachelor of Business (Financial Planning)
 
