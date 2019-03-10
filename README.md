@@ -32,8 +32,12 @@ My expectations of this course are that I will receive a better overall understa
 
 I have recently moved into the financial planning industry. Currently my ideal job is to be a financial adviser, with the hope of one day moving into a management or mentor type role. As such, the job posting below reflects my desire for that kind of position.  
 
-<img style="float: left;" src="Senior_FA_Seek.jpg">
-<img style="float: left;" src="Job_Description_FA.jpg">
+<img style="float: left;" src="Senior_FA_Seek.jpg">  
+
+The Role  
+
+Using our firm's resources and your experience, you will be required to assist client's improve their financial situation by conducting a thorough examination into their needs, goals and objectives and, with the support of the Equiti Advisory Committee and in line with the Equiti Investment Philosophy, tailor a financial and investment strategy appropriate to each individual client.
+
 
 
 
