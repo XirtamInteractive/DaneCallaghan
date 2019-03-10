@@ -61,7 +61,7 @@ Being a financial adviser is appealing to me as it is a people focused position.
  
  I plan to build on these skills by completeing my degree, on the job experience and continuing to develope my knowledge through research. Part of being an adviser requires continual study which is recognised through CPD point. CPD stands for Compulsory Personal Development. This helps ensure that advisers stay up to date with the ever changing financial services world.
  
- ## Personal Profile
+## Personal Profile
  
  Below are the my personal results from profiling tests. These tests are designed to assess personality and learning types of the individual.
  
