@@ -65,8 +65,11 @@ Being a financial adviser is appealing to me as it is a people focused position.
  
  Below are the my personal results from profiling tests. These tests are designed to assess personality and learning types of the individual.
  
+## Myers Briggs Type Test
 
-
+<div>
+<img src="Myers_Briggs_Result.jpg">
+</div>
 
 
 
