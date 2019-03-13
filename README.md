@@ -84,5 +84,15 @@ Being a financial adviser is appealing to me as it is a people focused position.
 <br />
 <img src ="Big_5_Test_2.jpg">         
 
-## What These Results Mean
+## What These Results Mean For Me
+
+I think these test results are somewhat true, although I disagree with parts of them. In regards to the Myers-Briggs type test, while I am serious, I am certainly not quiet (just ask my girlfriend!). I like to think I am thorough and dependable. When I am in a team, I definitely don't want to let anyone down and pride myself on doing more than just "my part". I think my score of 83 in the Thinking section of the test shows that I lean towards critical think and analysis ore than my "gut feeling". I am very process driven and like to see the logical reasons of why I do things. I interpret my 50% split of introversion/extraversion to mean that once I feel comfortable, I am quite outgoing. I tend to "sus out" people before I give them them the full me.  
+
+In regards to my learning style result, this could not be more true. In my work I will often get someone to show me a task, then I will make myself a visual guide to follow. I also often use Youtube as a learning guide as things tend to click better for me when I see them. I find it difficult to learn if it's just from people telling me.  
+
+The Big 5 Personality result describes me quite well. I believe I have a very strong work ethic, and make a conscious effort to develop team relationships. The low score in my agreeableness can sometimes be an issue as if I don't agree on something, and you can't present me logical facts to support your opinion it's very hard to change my mind. I think I have a healthy mix in the Openness to Experience section. I like to follow traditional methods, but am always open to a better or more efficient way of doing things.  
+
+## How These Results May Influence My Behaviour In A Team
+
+These results show that I will be a very commited team player, as I have a great work ethic and an outgoing personality. My desire to get factual, logic based solutions can be an asset, although if paired with a more lax person it could cause issues. I will ask people to "show" me their ideas, as opposed to just explaining something. I also think I will convey my ideas more effectively through a visual source too.
 
