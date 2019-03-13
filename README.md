@@ -74,7 +74,9 @@ Being a financial adviser is appealing to me as it is a people focused position.
 
 ## Learning Style Test
 
-
+<div>
+  <img src ="Personality_Test_Result.jpg">
+</div>
 
 
 
