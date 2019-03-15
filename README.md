@@ -157,7 +157,7 @@ It would also encourage more social interaction by use of the technology where a
 
 ## References:
 
-- 123test.com, <i>Personality test</i>, accessed 16 March 2019, <https://www.123test.com/personality-test/id=fCJRSJOGMXGLOOY&version=>  
+- 123test.com, <i>Personality Test</i>, accessed 16 March 2019, <https://www.123test.com/personality-test/id=fCJRSJOGMXGLOOY&version=>  
 
 - http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6
 - http://www.humanmetrics.com/cgi-win/jtypes2.asp
