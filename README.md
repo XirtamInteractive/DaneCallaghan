@@ -7,7 +7,7 @@
 - Languages:    English. I do have an interest in learning more, and am currently teaching myself German and Brazillian Portuguese.
 - Interesting Fact: One of my hobbies is skydiving. I have done 131 jumps so far and hope to one day reach 1000.
 
-## Education
+## Education:
 Completed Year 10 at high school.  
 Cert III in Electrotechnology.  
 Cert IV in Electrical Equipment in Hazardous Areas.  
@@ -19,7 +19,7 @@ Currently studying a Bachelor of Business (Financial Planning).
 I moved from highschool straight into my electrical apprenticeship. For around 20 years I worked in the electrical/construction industry in various working environments. I worked on basic residential dwellings all the way through to billion dollar mining projects.    
 Mid 2017 I decided to commit fully to a career change. I put myself through a DFP, then progressed onto my current degree - Bbus (FP). I am currently working as an Associate Adviser for a financial planning firm.
 
-## My Interest In IT
+## My Interest In IT:
 My earliest memories of "IT" are visiting the local Penny Arcade, which is the 1980's equivalent of Timezone. I was exposed to video games at a young age and became hooked. I got my first console at around 10 years old, which was the original Nintendo Entertainment System.  
 I always seemed to have an interest in various technologies growing up, and was exposed to computing early as my mother taught computer literacy, database design and programming at Tafe.  
 In 2009, I was dissatisfied with my job as an electrician and commenced at Bachelor of IT thruogh Griffith. I completed my first year then life circumstances got in the way and I postponed it with a view to complete at a later date. That was my first "real" deep exposure to what IT was. I loved it, and my results weren't bad considering I had no real actual experience previously.  
@@ -28,7 +28,7 @@ RMIT was chosen by default, although I am more than happy to be studying through
 
 My expectations of this course are that I will receive a better overall understanding of what IT is, and how it applies to today's work environment. I am hoping it will help develop my IT knowledge, communication skills and help me identify ways in which IT can compliment my life.  
 
-## Ideal Job
+## Ideal Job:
 
 I have recently moved into the financial planning industry. Currently my ideal job is to be a financial adviser, with the hope of one day moving into a management or mentor type role. As such, the job posting below reflects my desire for that kind of position.  
 <div>
@@ -37,21 +37,21 @@ I have recently moved into the financial planning industry. Currently my ideal j
 <br/>
 The job posting can be viewed on Seek [here](https://www.seek.com.au/job/38381422?searchrequesttoken=935c9592-fd12-4cb6-adda-25411837db7c&type=promoted)  
 
-## Description
+## Description:
 A Senior Financial Adviser works with clients to help them understand their financial needs. They discuss and assesss various aspects of the clients financial situation such as budgets and cash flow, superannuation, investments, risk management, estate planning and retirement goals. The adviser will help educate the client on these topics and address any concerns they may have. 
 
 After assessment, the adviser will build a strategy tailored to the client's specific needs and goals. The adviser then implements the financial plan and monitors it to ensure it continues to meet the client's goals as their life moves forward.  
 
 Being a financial adviser is appealing to me as it is a people focused position. This job will allow me to engage with people and truly make a difference in their life. I also find the research invloved interesting and it's satisfying developing a plan based on the client's individual needs.  
 
-## Required Skills
+## Required Skills:
  - Communication Skills. The adviser needs to listen and understand the clients needs, and be able to convey information to the client  
  - Research Skills. Adviser need an ability to look at the client's situation, and research appropraite products and strategy to ensure the client's objectives are met.
  - Time Management. An adviser needs to be organised to deliver the advice in a timely manner.  
  - IT Skills. Adviser need a working knowledge of various compluter applications such as Word, Excel, Outlook, CRMs and other IT related equipment.
  - Before December 31 last year, advisers could have a minimum of a Diploma of Financial Planning and legally be allowed to give advice. This was limited to their skill level, as advisers can't give advice on anything they don't have experience with. Following the Royal Comission, the standards for formal education have now changed. By 2024 advisers will be required to have a related degree such as economics, business (financial major) or commerce and complete bridging courses as required. There is also an option for previously registered advisers to complete a Graduate Diploma of 8 subjects if they don't have a related degree.
  
-## My Current Skills
+## My Current Skills:
  
  - Communication skills. Developed through my professional career and currently being refined in a financial planning support role.  
  - Research Skills. Developed through various levels of study.  
@@ -61,30 +61,30 @@ Being a financial adviser is appealing to me as it is a people focused position.
  
  I plan to build on these skills by completeing my degree, on the job experience and continuing to develope my knowledge through research. Part of being an adviser requires continual study which is recognised through CPD point. CPD stands for Compulsory Personal Development. This helps ensure that advisers stay up to date with the ever changing financial services world.
  
-## Personal Profile
+## Personal Profile:
  
  Below are the my personal results from profiling tests. These tests are designed to assess personality and learning types of the individual.
  
-## Myers Briggs Type Test
+## Myers Briggs Type Test:
 
 <div>
 <img src="Myers_Briggs_Result.jpg">
 </div>
 
 
-## Learning Style Test
+## Learning Style Test:
 
 <div>
   <img src ="Personality_Test_Result.jpg">
 </div>
 
-## Big 5 Personality Test
+## Big 5 Personality Test:
 
 <img src ="Big_5_Test_1.jpg">
 <br />
 <img src ="Big_5_Test_2.jpg">         
 
-## What These Results Mean For Me
+## What These Results Mean For Me:
 
 I think these test results are somewhat true, although I disagree with parts of them. In regards to the Myers-Briggs type test, while I am serious, I am certainly not quiet (just ask my girlfriend!). I like to think I am thorough and dependable. When I am in a team, I definitely don't want to let anyone down and pride myself on doing more than just "my part". I think my score of 83 in the Thinking section of the test shows that I lean towards critical think and analysis ore than my "gut feeling". I am very process driven and like to see the logical reasons of why I do things. I interpret my 50% split of introversion/extraversion to mean that once I feel comfortable, I am quite outgoing. I tend to "sus out" people before I give them them the full me.  
 
@@ -92,15 +92,15 @@ In regards to my learning style result, this could not be more true. In my work 
 
 The Big 5 Personality result describes me quite well. I believe I have a very strong work ethic, and make a conscious effort to develop team relationships. The low score in my agreeableness can sometimes be an issue as if I don't agree on something, and you can't present me logical facts to support your opinion it's very hard to change my mind. I think I have a healthy mix in the Openness to Experience section. I like to follow traditional methods, but am always open to a better or more efficient way of doing things.  
 
-## How These Results May Influence My Behaviour In A Team
+## How These Results May Influence My Behaviour In A Team:
 
 I think I would work well in a team, and would expect we had a solid plan where everyone knew exactly what is expected from them. I would want a clear timeline established, with defined tasks set out to be completed in that time. I have sometimes been described as "too picky" as I can scrutinise every detail. The positive side to that is that I am very thorough if assigned a research task.
 
-## Things to consider when I form a team
+## Things to consider when I form a team:
 
 I think personality cetainly plays a part in forming a team, and that it can be beneficial to have a mix of diffeent types. It is important to know everyone's skills, learning methods and how they work best. If we can understand the various types of personalities, we can understand how best to interact with each type. 
 
-## Project Idea
+## Project Idea:
 
 ## Overview
 
@@ -155,6 +155,12 @@ If the project was successful, it could definitely provide a solution to my orig
 It could change the way people interact with entertainment businesses. It may encourage more tourism, as it will be easier to access local information. It could help boost local economies if it was made easier for people to connect with businesses. 
 It would also encourage more social interaction by use of the technology where a lot of the population is already interacting.  
 
-## References
+## References:
+
+- https://www.123test.com/personality-test/id=fCJRSJOGMXGLOOY&version=
+- http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6
+- http://www.humanmetrics.com/cgi-win/jtypes2.asp
+- https://personalityatwork.co
+- https://www.quora.com/What-is-Ubers-server-architecture
 
 
