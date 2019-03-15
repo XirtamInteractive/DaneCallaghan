@@ -159,10 +159,15 @@ It would also encourage more social interaction by use of the technology where a
 
 - 123test.com, <i>Personality Test</i>, accessed 16 March 2019, <https://www.123test.com/personality-test/id=fCJRSJOGMXGLOOY&version=>  
 
-- http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6
-- http://www.humanmetrics.com/cgi-win/jtypes2.asp
-- https://personalityatwork.co
-- https://www.quora.com/What-is-Ubers-server-architecture
-- http://seek.com.au/
+- educationplanner.org <i> What's Your Learning Style</i>,accessed 16 March 2019, <http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=8&T=6>  
+
+- humanmetrics.com, <i>Personality Test based on C.Jung and I. Briggs-Myers Type Theory</i>, accessed 16 March 2019 <http://www.humanmetrics.com/cgi-win/jtypes2.asp>  
+
+- Personalityatwork.co, <i>ITSJ</i>, accessed 16 March 2019 <https://personalityatwork.co>  
+
+- Quora.com, <i>What is Uber's Server Architecture?</i>, accessed 16 March 2019 <https://www.quora.com/What-is-Ubers-server-architecture  
+
+- Seek.com, accessed 16 March 2019, <http://seek.com.au/>  
+
 
 
