@@ -167,7 +167,7 @@ It would also encourage more social interaction by use of the technology where a
 
 - Quora.com, <i>What is Uber's Server Architecture?</i>, accessed 16 March 2019 <https://www.quora.com/What-is-Ubers-server-architecture>    
 
-- Seek.com, accessed 16 March 2019, <http://seek.com.au/>  
+- Seek.com.au, accessed 16 March 2019, <http://seek.com.au/>  
 
 
 
