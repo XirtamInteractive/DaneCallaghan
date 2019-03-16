@@ -38,7 +38,7 @@ I have recently moved into the financial planning industry. Currently my ideal j
 The job posting can be viewed on Seek [here](https://www.seek.com.au/job/38381422?searchrequesttoken=935c9592-fd12-4cb6-adda-25411837db7c&type=promoted)  
 
 ## Description:
-A Senior Financial Adviser works with clients to help them understand their financial needs. They discuss and assesss various aspects of the clients financial situation such as budgets and cash flow, superannuation, investments, risk management, estate planning and retirement goals. The adviser will help educate the client on these topics and address any concerns they may have. 
+A Senior Financial Adviser works with clients to help them understand their financial needs. They discuss and assesss various aspects of the client's financial situation such as budgets and cash flow, superannuation, investments, risk management, estate planning and retirement goals. The adviser will help educate the client on these topics and address any concerns they may have. 
 
 After assessment, the adviser will build a strategy tailored to the client's specific needs and goals. The adviser then implements the financial plan and monitors it to ensure it continues to meet the client's goals as their life moves forward.  
 
@@ -46,7 +46,7 @@ Being a financial adviser is appealing to me as it is a people focused position.
 
 ## Required Skills:
  - Communication Skills. The adviser needs to listen and understand the clients needs, and be able to convey information to the client  
- - Research Skills. Advisers need an ability to look at the client's situation, and research appropraite products and strategy to ensure the client's objectives are met.
+ - Research Skills. Advisers need an ability to look at the client's situation, and research appropraite products and strategies to ensure the client's objectives are met.
  - Time Management. An adviser needs to be organised to deliver the advice in a timely manner.  
  - IT Skills. Adviser need a working knowledge of various compluter applications such as Word, Excel, Outlook, CRMs and other IT related equipment.
  - Before December 31 last year, advisers could have a minimum of a Diploma of Financial Planning and legally be allowed to give advice. This was limited to their skill level, as advisers can't give advice on anything they don't have experience with. Following the Royal Comission, the standards for formal education have now changed. By 2024 advisers will be required to have a related degree such as economics, business (financial major) or commerce and complete bridging courses as required. There is also an option for previously registered advisers to complete a Graduate Diploma of 8 subjects if they don't have a related degree.
@@ -86,7 +86,7 @@ Being a financial adviser is appealing to me as it is a people focused position.
 
 ## What These Results Mean For Me:
 
-I think these test results are somewhat true, although I disagree with parts of them. In regards to the Myers-Briggs type test, while I am serious, I am certainly not quiet (just ask my girlfriend!). I like to think I am thorough and dependable. When I am in a team, I definitely don't want to let anyone down and pride myself on doing more than just "my part". I think my score of 83 in the Thinking section of the test shows that I lean towards critical think and analysis ore than my "gut feeling". I am very process driven and like to see the logical reasons of why I do things. I interpret my 50% split of introversion/extraversion to mean that once I feel comfortable, I am quite outgoing. I tend to "sus out" people before I give them them the full me.  
+I think these test results are somewhat true, although I disagree with parts of them. In regards to the Myers-Briggs type test, while I am serious, I am certainly not quiet (just ask my girlfriend!). I like to think I am thorough and dependable. When I am in a team, I definitely don't want to let anyone down and pride myself on doing more than just "my part". I think my score of 83 in the Thinking section of the test shows that I lean towards critical thinking and analysis more than my "gut feeling". I am very process driven and like to see the logical reasons of why I do things. I interpret my 50% split of introversion/extraversion to mean that once I feel comfortable, I am quite outgoing. I tend to "sus out" people before I give them them the full me.  
 
 In regards to my learning style result, this could not be more true. In my work I will often get someone to show me a task, then I will make myself a visual guide to follow. I also often use Youtube as a learning guide as things tend to click better for me when I see them. I find it difficult to learn if it's just from people telling me.  
 
@@ -106,7 +106,7 @@ I think personality cetainly plays a part in forming a team, and that it can be 
 
 My project idea was actually conceived in 2013 while on holiday in Canada with my girlfriend. It was a Sunday afternoon, and we were looking for a place to go for a drink/food with live music. We had a hard time searching for anywhere, and we didn’t really know the city (Toronto). After an hour or two of wandering aimlessly we finally found a place.  
 
-I thought to myself “That was incredibly frustrating”, and said to my girlfriend “Imagine if there was an app, similar to Uber that took your location and suggested places to go based your profile or search criteria. 
+I thought to myself “That was incredibly frustrating”, and said to my girlfriend “Imagine if there was an app, similar to Uber that took your location and suggested places to go based on your profile or search criteria. 
 Ultimately, we wanted an app that would tell us what’s on and where to go in minutes.  
 
 ## Motivation  
