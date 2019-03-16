@@ -78,12 +78,14 @@ Being a financial adviser is appealing to me as it is a people focused position.
 <div>
   <img src ="Personality_Test_Result.jpg">
 </div>
+<br />
 
 ## Big 5 Personality Test:
 
 <img src ="Big_5_Test_1.jpg">
 <br />
-<img src ="Big_5_Test_2.jpg">         
+<img src ="Big_5_Test_2.jpg"> 
+<br />
 
 ## What These Results Mean For Me:
 
