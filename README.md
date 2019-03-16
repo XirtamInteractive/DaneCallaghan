@@ -59,7 +59,7 @@ Being a financial adviser is appealing to me as it is a people focused position.
  - Diploma of Financial Planning.  
  - Currently studying a Bachelor of Business (Financial Planning).  
  
- I plan to build on these skills by completeing my degree, on the job experience and continuing to develope my knowledge through research. Part of being an adviser requires continual study which is recognised through CPD point. CPD stands for Compulsory Personal Development. This helps ensure that advisers stay up to date with the ever changing financial services world.
+ I plan to build on these skills by completeing my degree, on the job experience and continuing to develope my knowledge through research. Part of being an adviser requires continual study which is recognised through CPD points. CPD stands for Compulsory Personal Development. This helps ensure that advisers stay up to date with the ever changing financial services world.
  
 ## Personal Profile:
  
