@@ -24,7 +24,7 @@ My earliest memories of "IT" are visiting the local Penny Arcade, which is the 1
 I always seemed to have an interest in various technologies growing up, and was exposed to computing early as my mother taught computer literacy, database design and programming at Tafe.  
 In 2009, I was dissatisfied with my job as an electrician and commenced at Bachelor of IT thruogh Griffith. I completed my first year then life circumstances got in the way and I postponed it with a view to complete at a later date. That was my first "real" deep exposure to what IT was. I loved it, and my results weren't bad considering I had no real actual experience previously.  
 
-RMIT was chosen by default, although I am more than happy to be studying through them. My degree is offered online through them, although it's made up of many other university's modules too. The structure of my degree is that RMIT will issue it if I complete at least 8 core units through them.    
+RMIT was chosen by default, although I am more than happy to be studying through them. My degree is offered online through them although it's made up of many other university's modules too. The structure of my degree is that RMIT will issue it if I complete at least 8 core units through them.    
 
 My expectations of this course are that I will receive a better overall understanding of what IT is, and how it applies to today's work environment. I am hoping it will help develop my IT knowledge, communication skills and help me identify ways in which IT can compliment my life.  
 
@@ -46,7 +46,7 @@ Being a financial adviser is appealing to me as it is a people focused position.
 
 ## Required Skills:
  - Communication Skills. The adviser needs to listen and understand the clients needs, and be able to convey information to the client  
- - Research Skills. Adviser need an ability to look at the client's situation, and research appropraite products and strategy to ensure the client's objectives are met.
+ - Research Skills. Advisers need an ability to look at the client's situation, and research appropraite products and strategy to ensure the client's objectives are met.
  - Time Management. An adviser needs to be organised to deliver the advice in a timely manner.  
  - IT Skills. Adviser need a working knowledge of various compluter applications such as Word, Excel, Outlook, CRMs and other IT related equipment.
  - Before December 31 last year, advisers could have a minimum of a Diploma of Financial Planning and legally be allowed to give advice. This was limited to their skill level, as advisers can't give advice on anything they don't have experience with. Following the Royal Comission, the standards for formal education have now changed. By 2024 advisers will be required to have a related degree such as economics, business (financial major) or commerce and complete bridging courses as required. There is also an option for previously registered advisers to complete a Graduate Diploma of 8 subjects if they don't have a related degree.
