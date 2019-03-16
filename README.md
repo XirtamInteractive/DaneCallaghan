@@ -70,6 +70,7 @@ Being a financial adviser is appealing to me as it is a people focused position.
 <div>
 <img src="Myers_Briggs_Result.jpg">
 </div>
+<br />
 
 
 ## Learning Style Test:
