@@ -14,4 +14,12 @@ Background: I want to have more knowledge with guidance, so then by these knowle
 
 <!--The above hasn't been proof read or edited yet. There are some grammatical and spelling errors that will need to be addressed.
 	I wanted to double check with Jon before I change too much, as it is his words.-->
-Hobbies:
+Hobbies:<!-- Jon will need to advise on his hobbies, as I couldn't find them on his page.-->
+IT Interest: Information Technology is the backbone of all technology we have today and this is something I always like to talk 		about. I would like to use my passion in science to this industry as the meaning of my existence to create 			something really relivant and useful to everyone. Creating something that helps human to enhance their productivity 		for future innovation is very meaningful and being part of this advancement as one of those people who shaping the 		world into a better place is very rewarding. As today's advancement often technologies are utilised in a wrong place 		and having wrong impact, however, right mindset and right motives on the project these technologies can be very useful 			to benifits us and the future generations that are coming.
+<!--The above hasn't been proof read or edited yet. There are some grammatical and spelling errors that will need to be addressed.
+	I wanted to double check with Jon before I change too much, as it is his words.-->
+IT Experience:Jon has experience in HTML, Visual Basic, Web Development (wix and Wordpress)
+Ideal Job:Software Engineer - because it has the highest rate for JOB Posting available today and the highest pay rate job in this 	     industry. It also lead me to be part to the team who are changing the world into better place (Innovation Technology).
+
+<!--I'll need to go through all of the text that I have copy pasted from Jon's page, and edit it. For now on 27.3.19, I am just getting everyone's data in so I can edit it all later at once. I'll put another comment below this one once complete-->
+<!--> This comment space will be for when the edit is complete-->
