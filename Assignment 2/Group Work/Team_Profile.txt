@@ -1,5 +1,7 @@
 TECH ELITES
 <p>
+<!-- Not exactly sure what to write here. I think Jon's idea to have an intro is great. Maybe we can all decide as a group what to write here. Not complete as of 28.3.19 @ 3:49 AM.-->
+
 "Introducing Group of IT students .....
 
 which will be the .......
@@ -10,7 +12,8 @@ which will be the .......
 </p>
 
 <p>
-MEMBERS
+<h2>MEMBERS,/h2>
+
 <h1>Jon Ara</h1>
 
 <a href="https://xirtaminteractive.github.io/">GitHub Profile</a> 
