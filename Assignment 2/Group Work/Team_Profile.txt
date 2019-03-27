@@ -65,4 +65,9 @@ personality type: <!-- Will updtae once Aaron makes contact -->
 
 "Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
 
+<h2>GROUP STRENGTH</h2>
+<p>
+<!-- I think this section should be done as a group, maybe we can all write a quick summary of how we interpret the personality test results and collectively vote on what to put here -->
+</p>
+
 </p>
