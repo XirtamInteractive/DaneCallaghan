@@ -1,25 +1,65 @@
-Team Profile
+TECH ELITES
+<p>
+"Introducing Group of IT students .....
 
-Team Name: TechElites
+which will be the .......
 
-Team Members: Jon, Dane, Rav, Damian, Jaime and Aaron
+..... knowledge and experience
 
-Jonathon Aragones - TechElites
-Student Number: S3788425
-Background: I want to have more knowledge with guidance, so then by these knowledge become's my wisdom to use in creation of global impact for global technological innovation. 
-			This quite sound a big dreams but why not, as a human with a function as being human what makes me being me if my purpose is just for myself and not including everyone and surroundings. 
-			I believe that I would not reach my purpose as the meaning of being human if i just do the regular thing as human do. 
-			At this regularity of this mechanics, being just natural having no sense and defit its purpose, because why then I am exist in this space as other can be at my place then as naturally no meaning of my existence. 
-			The purpose of being exist is what everyone to build as the freewill of your existence and take note that no one can built this for you, only but just you.
+......... so future will be........"
+</p>
 
-<!--The above hasn't been proof read or edited yet. There are some grammatical and spelling errors that will need to be addressed.
-	I wanted to double check with Jon before I change too much, as it is his words.-->
-Hobbies:<!-- Jon will need to advise on his hobbies, as I couldn't find them on his page.-->
-IT Interest: Information Technology is the backbone of all technology we have today and this is something I always like to talk 		about. I would like to use my passion in science to this industry as the meaning of my existence to create 			something really relivant and useful to everyone. Creating something that helps human to enhance their productivity 		for future innovation is very meaningful and being part of this advancement as one of those people who shaping the 		world into a better place is very rewarding. As today's advancement often technologies are utilised in a wrong place 		and having wrong impact, however, right mindset and right motives on the project these technologies can be very useful 			to benifits us and the future generations that are coming.
-<!--The above hasn't been proof read or edited yet. There are some grammatical and spelling errors that will need to be addressed.
-	I wanted to double check with Jon before I change too much, as it is his words.-->
-IT Experience:Jon has experience in HTML, Visual Basic, Web Development (wix and Wordpress)
-Ideal Job:Software Engineer - because it has the highest rate for JOB Posting available today and the highest pay rate job in this 	     industry. It also lead me to be part to the team who are changing the world into better place (Innovation Technology).
+<p>
+MEMBERS
+<h1>Jon Ara</h1>
 
-<!--I'll need to go through all of the text that I have copy pasted from Jon's page, and edit it. For now on 27.3.19, I am just getting everyone's data in so I can edit it all later at once. I'll put another comment below this one once complete-->
-<!--> This comment space will be for when the edit is complete-->
+<a href="https://xirtaminteractive.github.io/">GitHub Profile</a> 
+
+personality type: (EnFJ-A)
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+<br/>
+
+<h1>Dane Callaghan</h1>
+
+<a href="https://danecallaghan.github.io/DaneCallaghan/">GitHub Profile</a>
+
+personality type: (I-S-T-J)
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+
+<br/>
+
+<h1>Damian Gaffey</h1>
+
+<a href="https://damian-gaffey.github.io/Myprofile/">GitHub Profile</a>
+
+personality type: ( )<!-- Damian's profile currently just says "Defender". We will need the result from the human metrics test-->
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+
+<h1>Jaime Salgado</h1>
+
+<a href="jaimesalgado14.github.io">GitHub Profile</a>
+
+personality type: (I-S-T-J)
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+
+<h1>Rav</h1>
+
+<a href="xxxxxxxxxxxxx">GitHub Profile</a> <!--Rav will need to get us the link to his profile -->
+
+personality type:(ISTJ-a)
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+
+<h1>Aaron Bowden</h1> <!-- I have included Aaron for now until we confirm that he is inactive. I can update with his info if he contacts us -->
+
+<a href="xxxxxxxxxxxxx">GitHub Profile</a> <!--Aaron will need to get us the link to his profile -->
+
+personality type: <!-- Will updtae once Aaron makes contact -->
+
+"Vision message" <!-- Not sure if each member wants to do this themselves, or if we will use something from their persoanl profile-->
+
+</p>
